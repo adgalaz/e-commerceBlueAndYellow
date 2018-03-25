@@ -1,0 +1,18 @@
+<div class="item-detail">
+  <div class="item-image"><img src="<%= item.image %>" alt="<%= item.title %>" style="border-radius:5px;" /></div>
+  <div class="item-info">
+    <div class="item-title" style="margin:0.5rem;"><%= item.title %></div>
+    <div class="item-price" style="margin:0.5rem;">$<%= item.price %></div>
+    <div class="item-form">
+      <form action="#/cart" method="post" style="margin:0.5rem;">
+        <input type="hidden" name="item_id" value="<%= params['id'] %>" />
+        <p>
+          <label>Quantity:</label>
+          <input type="text" size="2" name="quantity" value="1" />
+        </p>
+        <p><input type="submit" value="Add to Cart" /></p>
+      </form>
+    </div>
+    <div class="back-link" style="margin-bottom:2rem;"><a href="#/">&laquo; Back to Items</a></div>
+  </div>
+</div>

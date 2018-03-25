@@ -1,0 +1,37 @@
+.jumbotron {
+    background-image: url(../img_fondo/embroidery.jpg);
+    background-size: cover;
+    background-position: center;
+    text-align: right
+}
+
+hr {
+    border-top: 2px solid rgba(0, 0, 0, .1);
+}
+
+#main {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    width: 100%;
+}
+
+footer {
+    background-color: #fcdebe;
+    height: 8em;
+}
+
+.footer {
+    font-family: 'Pacifico', cursive;
+    font-size: 24px;
+    text-align: center;
+    padding-top: 1em;
+}
+
+.footer-1 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+}

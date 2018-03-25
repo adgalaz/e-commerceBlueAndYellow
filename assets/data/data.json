@@ -1,0 +1,75 @@
+[{
+        "title": "Spring fever embroidered linen top",
+        "image": "assets/images/item1.jpg",
+        "price": 23.98
+    }, {
+        "title": "Mexican embroidered cushion",
+        "image": "assets/images/item2.jpg",
+        "price": 13.98
+    },
+    {
+        "title": "Bordered neck",
+        "image": "assets/images/item3.jpg",
+        "price": 13.98
+    },
+    {
+        "title": "Bordered Jeans",
+        "image": "assets/images/item4.jpg",
+        "price": 13.99
+    },
+    {
+        "title": "Embroidered gray cushion",
+        "image": "assets/images/item5.jpg",
+        "price": 9.98
+    },
+    {
+        "title": "Modern Embroidery",
+        "image": "assets/images/item6.jpg",
+        "price": 13.98
+    },
+    {
+        "title": "Crochet touch",
+        "image": "assets/images/item7.jpg",
+        "price": 13.98
+    },
+    {
+        "title": "Hand embroder",
+        "image": "assets/images/item8.jpg",
+        "price": 13.99
+    },
+    {
+        "title": "Cloth & kind",
+        "image": "assets/images/item9.jpg",
+        "price": 9.98
+    },
+    {
+        "title": "Flower embroidered vest",
+        "image": "assets/images/item10.jpg",
+        "price": 13.98
+    },
+    {
+        "title": "Embroidered phone cover",
+        "image": "assets/images/item11.jpg",
+        "price": 13.98
+    },
+    {
+        "title": "Embroidered colorful cushion",
+        "image": "assets/images/item12.jpg",
+        "price": 13.99
+    },
+    {
+        "title": "felt embroidered with flowers",
+        "image": "assets/images/item13.jpg",
+        "price": 9.98
+    },
+    {
+        "title": "Flower embroidered summer vest",
+        "image": "assets/images/item14.jpg",
+        "price": 13.98
+    },
+    {
+        "title": "Embroidery Designs With Wool ",
+        "image": "assets/images/item15.jpg",
+        "price": 13.98
+    }
+]

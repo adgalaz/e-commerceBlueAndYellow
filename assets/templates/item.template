@@ -1,0 +1,7 @@
+<div class="card item" style="width: 20.1rem; margin:1rem; text-align: center;">
+<a href="#/item/<%= id %>"><img class="card-img-top" src="<%= item.image %>" alt="<%= item.title %>" style="width: 20rem; height:20rem;"/></a>
+  <div class="card-block">
+	<div class="item-title card-title"><%= item.title %></div>
+  <div class="item-price card-text">$<%= item.price %></div>
+  </div>
+</div>
